@@ -1,9 +1,4 @@
-####################################
-# FILE : hangman.py
-#WRITER: mohamed ,mohamedag,314720293
-#EXERCISE: intro2cs ex4 2016-2017
-#DESCRIPTION : A Program that doing hangman game
-###################################
+
 Dash='_'
 Empty_string=''
 import random
